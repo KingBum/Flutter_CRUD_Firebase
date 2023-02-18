@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "944915015439",
+    "project_id": "coipen2151",
+    "storage_bucket": "coipen2151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944915015439:android:20a41f246d9fc91480807a",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944915015439-5md6clrs3nr446l2rbr5pkmtvgnvd1ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3UuQTRXrrfBb_Uchs4Bpj7cPGcWrVIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944915015439-5md6clrs3nr446l2rbr5pkmtvgnvd1ao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944915015439-1tc320i0a86j4unf65oh233d112ss31s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
